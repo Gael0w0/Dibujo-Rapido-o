@@ -1,0 +1,15 @@
+body{
+    background-color: darkcyan;
+}
+#Puntuacion{
+    font-size: 20px;
+    margin-left: 50px;
+}
+#Temporizador{
+    font-size: 21px;
+    float:right;
+    margin-right: 50px;
+}
+#DibujoATrazar{
+    color:yellowgreen;
+}
